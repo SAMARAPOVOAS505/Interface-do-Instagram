@@ -1,2 +1,3 @@
 # interface-do-instagram
-Criando a interface do instagram para o projeto da Dio.
+Projeto front end da plataforma de cursos DIO com o desafio de recriar a pagina de logn do instagram.
+O projeto foi ultilizado o HTML e CSS.
